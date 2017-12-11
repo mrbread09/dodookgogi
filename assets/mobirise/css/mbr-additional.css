@@ -1659,8 +1659,8 @@ body {
   color: #f2f3ae;
 }
 .cid-qCeWlfXirK {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-qDtATWP7BF {
@@ -2003,7 +2003,7 @@ body {
 }
 .cid-qCeXxE9HQF {
   padding-top: 30px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #f9f9f9;
 }
 .cid-qCeXxE9HQF .card {
@@ -2040,8 +2040,8 @@ body {
   background-image: url("../../../assets/images/batch-01i5406-1-1000x666.jpg");
 }
 .cid-qCfSd9y0jN {
-  padding-top: 45px;
-  padding-bottom: 45px;
+  padding-top: 30px;
+  padding-bottom: 15px;
   background-color: #f9f9f9;
 }
 .cid-qCfSd9y0jN .card {
@@ -2069,8 +2069,8 @@ body {
   }
 }
 .cid-qDuoGP0IBu {
-  padding-top: 45px;
-  padding-bottom: 45px;
+  padding-top: 30px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-qDuoGP0IBu .card-title {
@@ -2431,8 +2431,8 @@ body {
   text-align: center;
 }
 .cid-qDtLn0ZWKD {
-  padding-top: 45px;
-  padding-bottom: 45px;
+  padding-top: 30px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-qDtL6L7fzS {
@@ -2628,6 +2628,9 @@ body {
 }
 .cid-qDtQmnqOjs .mbr-section-subtitle B {
   color: #e5524e;
+}
+.cid-qDtQmnqOjs .mbr-section-subtitle {
+  text-align: center;
 }
 #custom-html-2d {
   /* Type valid CSS here */
@@ -3289,4 +3292,8 @@ body {
   .cid-qDtXaj6BRr .mbr-section-btn {
     text-align: center !important;
   }
+}
+.cid-qDtXaj6BRr .mbr-text,
+.cid-qDtXaj6BRr .mbr-section-btn B {
+  color: #2c1616;
 }
