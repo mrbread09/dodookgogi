@@ -2116,6 +2116,10 @@ body {
 .cid-qDuoGP0IBu .card-underline .line {
   background: #ffbc00;
 }
+.cid-qDuoGP0IBu .card-box > p,
+.cid-qDuoGP0IBu .mbr-section-btn {
+  color: #e5524e;
+}
 .cid-qDuq2lGXFl {
   padding-top: 0px;
   padding-bottom: 15px;
@@ -2163,6 +2167,10 @@ body {
 }
 .cid-qDuq2lGXFl .card-underline .line {
   background: #ffbc00;
+}
+.cid-qDuq2lGXFl .card-box > p,
+.cid-qDuq2lGXFl .mbr-section-btn {
+  color: #e5524e;
 }
 .cid-qCfSMqdgMN {
   padding-top: 30px;
