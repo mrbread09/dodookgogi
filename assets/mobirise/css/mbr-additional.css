@@ -1440,6 +1440,16 @@ body {
     width: 100% !important;
   }
 }
+.cid-rhgQKRjzGN {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #555555;
+}
+.cid-rhgQKRjzGN .mbr-section-title {
+  margin: 0;
+  padding: 15px 0;
+  color: #ffffff;
+}
 .cid-qFx10qgyIu {
   padding-top: 45px;
   padding-bottom: 30px;
@@ -1447,6 +1457,9 @@ body {
 }
 .cid-qFx10qgyIu p {
   color: #767676;
+}
+.cid-qFx10qgyIu .content-row {
+  flex-direction: row-reverse;
 }
 .cid-qFx10qgyIu .underline {
   padding-top: .5rem;
@@ -1464,6 +1477,8 @@ body {
   }
   .cid-qFx10qgyIu .media-content {
     padding-right: 5rem;
+    padding-right: 0;
+    padding-left: 5rem;
   }
 }
 @media (max-width: 1499px) and (min-width: 768px) {
@@ -1474,11 +1489,18 @@ body {
 @media (max-width: 1499px) and (min-width: 991px) {
   .cid-qFx10qgyIu .media-content {
     padding-right: 3rem;
+    padding-right: 0;
+    padding-left: 3rem;
   }
 }
 @media (max-width: 767px) {
   .cid-qFx10qgyIu .text-content {
     padding: 2rem 1rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qFx10qgyIu .content-row {
+    -webkit-flex-direction: column-reverse;
   }
 }
 .cid-qFx10qgyIu .mbr-text,
@@ -1540,52 +1562,7 @@ body {
   color: #e5524e;
 }
 .cid-qDtQmnqOjs .mbr-section-subtitle {
-  text-align: center;
-}
-#custom-html-2v {
-  /* Type valid CSS here */
-}
-#custom-html-2v .my-image {
-  width: 100%;
-}
-.cid-qCf3ySJWg9 {
-  padding-top: 45px;
-  padding-bottom: 15px;
-  background-color: #f9f9f9;
-}
-.cid-qCf3ySJWg9 .card {
-  padding: 1rem 1rem 3rem 1rem;
-}
-.cid-qCf3ySJWg9 .card-img {
-  padding-bottom: 2rem;
-}
-.cid-qCf3ySJWg9 .mbr-text {
-  color: #767676;
-}
-.cid-qCf3ySJWg9 span {
-  font-size: 14px;
-  color: #ffffff;
-}
-.cid-qCf3ySJWg9 .mbr-section-btn {
-  margin-left: 0;
-}
-.cid-qCf3ySJWg9 .date span {
-  display: inline-block;
-  background-color: #f27d7a;
-  padding: 0.2rem 1rem;
-  white-space: nowrap;
-  text-overflow: ellipsis;
-  max-width: 90%;
-  overflow: hidden;
-}
-@media (max-width: 767px) {
-  .cid-qCf3ySJWg9 .card-title {
-    text-align: center;
-  }
-  .cid-qCf3ySJWg9 p.mbr-text,
-  .cid-qCf3ySJWg9 p.date {
-    text-align: center;
-  }
+  text-align: left;
 }
 .cid-qCfTDrG66e {
   padding-top: 60px;
@@ -1625,6 +1602,16 @@ body {
   .cid-qCfTDrG66e p.date {
     text-align: center;
   }
+}
+.cid-rhgRIFKa0E {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #555555;
+}
+.cid-rhgRIFKa0E .mbr-section-title {
+  margin: 0;
+  padding: 15px 0;
+  color: #ffffff;
 }
 .cid-qCf0aYIXH0 {
   padding-top: 120px;
